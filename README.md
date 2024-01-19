@@ -12,16 +12,16 @@
 
 
 {
-  "name": "Eryson Ferreira"
+  "name": "Eryson Ferreira",
   }  
  { 
- "profession": "computer engineer"
+ "profession": "computer engineer",
  }
  { 
- "from": "Recife, PE, Brazil"
+ "from": "Recife, PE, Brazil",
  }
  { 
- "email": "eryson.ferreira@gmail.com"
+ "email": "eryson.ferreira@gmail.com",
  }
  { 
  "created_at": "1995-08-08"
