@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**Eryson-Ferreira/Eryson-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###**Eryson-Ferreira/Eryson-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🌱 Atualmente estou aprendendo: 
+###- 🌱 Atualmente estou aprendendo: 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
