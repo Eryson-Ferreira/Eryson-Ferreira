@@ -4,7 +4,6 @@
 **Eryson-Ferreira/Eryson-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ###- 🌱 Atualmente estou aprendendo: 
-## 🛠  &nbsp;Tech Stack
 <img align="center" alt="Eryson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center" alt="Eryson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" alt="Eryson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
@@ -13,11 +12,19 @@
 
 
 {
-  "name": "Eryson Ferreira",
-  "profession": "computer engineer",
-  "from": "Recife, PE, Brazil",
-  "email": "eryson.ferreira@gmail.com",  
-  "created_at": "1995-08-08"
+  "name": "Eryson Ferreira"
+  }  
+ { 
+ "profession": "computer engineer"
+ }
+ { 
+ "from": "Recife, PE, Brazil"
+ }
+ { 
+ "email": "eryson.ferreira@gmail.com"
+ }
+ { 
+ "created_at": "1995-08-08"
 }
 
 
