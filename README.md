@@ -1,7 +1,7 @@
-### Hi there 👋
+ Hi there 👋
 
 <!--
-###**Eryson-Ferreira/Eryson-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Eryson-Ferreira/Eryson-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ###- 🌱 Atualmente estou aprendendo: 
 
@@ -18,3 +18,4 @@
   "email": "eryson.ferreira@gmail.com",  
   "created_at": "1995-08-08"
 }
+
