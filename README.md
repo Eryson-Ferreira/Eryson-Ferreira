@@ -10,15 +10,13 @@
 <img align="center" alt="Eryson-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 
-`
-{
+`{
   "name": "Eryson Ferreira", 
  "profession": "computer engineer", 
  "from": "Recife, PE, Brazil", 
  "email": "eryson.ferreira@gmail.com", 
  "created_at": "1995-08-08"
-}
-`
+}`
 
 
 ## ✉ &nbsp;Contact
