@@ -3,7 +3,7 @@
 
 **Eryson-Ferreira/Eryson-Ferreira** 
 
--💬 Let's talk about JavaScript, HTML, CSS <br><br>
+-💬 Let's talk about JavaScript, HTML, CSS, Nodejs <br><br>
 
 ###- 🌱
 <img align="center" alt="Eryson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
